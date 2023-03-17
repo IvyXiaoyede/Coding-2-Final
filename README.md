@@ -1,5 +1,5 @@
 # Coding-2-Final
-
+Panopto：https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e6f3369d-0c30-4f03-bd12-afc800cb6e5d
 
 For this final assignment,I wanted to express the idea that each person is the centre of their own star, and that when an object comes close to the centre, the star will shake, and when the object leaves it will gradually calm down. The Arduino is like an external noise, controlling the size of the dots in the background, and there is no way for the external noise to affect ourselves.
 
