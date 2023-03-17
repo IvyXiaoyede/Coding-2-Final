@@ -1,3 +1,4 @@
+## Arduino Code
 I used the Arduino's sliding resistor to control the size of the background in the OF. When the sliding resistor gets bigger, the circle in the background gets bigger, and conversely when the sliding resistor gets smaller, the circle in the background gets smaller.
 
 
