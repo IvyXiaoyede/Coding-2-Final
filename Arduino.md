@@ -1,3 +1,8 @@
+I used the Arduino's sliding resistor to control the size of the background in the OF. When the sliding resistor gets bigger, the circle in the background gets bigger, and conversely when the sliding resistor gets smaller, the circle in the background gets smaller.
+
+
+
+```
 int ButtonPin= 12;
 int LedPin= 7;
 int PotPin=0;
@@ -57,14 +62,4 @@ void loop() {
    Serial.write(Res);
    Serial.write(ButtonState);
 }
-
-//void Change()
-//{
-//   Res=analogRead(PotPin);//val = 0 ~ 1023
-//    voltage = map (Res,0,1023,0,2000);
-//    Serial.print("val = ");
-//    Serial.print(Res);
-//    Serial.print(";   voltage = ");
-//    Serial.println(voltage);
-//    analogWrite(LedPin,voltage);
-//}
+```
